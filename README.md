@@ -1,1 +1,1 @@
-# socialmedia-profilr
+# socialmedia-profile
